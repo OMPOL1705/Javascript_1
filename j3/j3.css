@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.clock{
+    background-color: bisque;
+    display: inline-flex;
+    flex-direction: row;
+    margin: 54px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.cont{
+    padding: 10px;
+    margin: 10px;
+}
+
+#h{
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 18px 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#m{
+    background-color: rgb(183, 17, 216);
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 18px 10px;
+}
+
+#s{
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 18px 10px;
+}
+
+
